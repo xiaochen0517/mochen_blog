@@ -106,3 +106,10 @@ deploy:
   repo: https://github.com/xiaochen0517/mochen_blog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
   message: Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}
+
+# search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
