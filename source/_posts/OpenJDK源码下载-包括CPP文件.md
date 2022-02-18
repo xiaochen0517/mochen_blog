@@ -4,10 +4,14 @@ date: 2022-02-13 12:25:07
 tags: 
   - JDK
   - 资源下载
-categories: 资源下载
+categories: 
+  - 其他
+  - 资源下载
 ---
 
-在 `Oracle` 中下载的 `JDK` 中是不包含 `CPP` 源码的，需要下载 `OpenJDK` 源码进行查看。
+在 `Oracle` 中下载的 `JDK` 中是不包含 `CPP` 源码的，需要下载 `OpenJDK` 源码进行查看。下面是下载源码压缩包的具体流程。
+
+<!-- more -->
 
 ```
 https://download.java.net/openjdk/jdk8/
