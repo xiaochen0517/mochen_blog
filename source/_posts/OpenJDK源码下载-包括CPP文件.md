@@ -1,7 +1,10 @@
 ---
 title: OpenJDK源码下载-包括CPP文件
 date: 2022-02-13 12:25:07
-tags:
+tags: 
+  - JDK
+  - 资源下载
+categories: 资源下载
 ---
 
 在 `Oracle` 中下载的 `JDK` 中是不包含 `CPP` 源码的，需要下载 `OpenJDK` 源码进行查看。
