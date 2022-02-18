@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Kindle电子书导出</title>
+    <url>/2022/02/18/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6%E5%AF%BC%E5%87%BA/</url>
+    <content><![CDATA[<p>原版 <code>Kindle for pc</code> 软件是不支持修改字体、滚动阅读等很多设置，自带的背景色也是没有合适的颜色，体验十分差劲。好在有许多第三方的阅读器，但是 <code>Kindle</code> 下载的电子书是加密的，这篇文章就是如何破解电子书并导入第三方工具进行阅读的教程。</p>
+<span id="more"></span>
+
+]]></content>
+      <categories>
+        <category>其他</category>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>日常技巧</tag>
+        <tag>电子书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OpenJDK源码下载-包括CPP文件</title>
+    <url>/2022/02/13/OpenJDK%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%8C%85%E6%8B%ACCPP%E6%96%87%E4%BB%B6/</url>
+    <content><![CDATA[<p>在 <code>Oracle</code> 中下载的 <code>JDK</code> 中是不包含 <code>CPP</code> 源码的，需要下载 <code>OpenJDK</code> 源码进行查看。下面是下载源码压缩包的具体流程。</p>
+<span id="more"></span>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://download.java.net/openjdk/jdk8/</span><br></pre></td></tr></table></figure>
+
+<p>若需要 <code>JDK7</code> 只需将 <code>jdk8</code> 修改为 <code>jdk7</code> 即可。</p>
+<img src="/2022/02/13/OpenJDK%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%8C%85%E6%8B%ACCPP%E6%96%87%E4%BB%B6/01.png" class="" title="This is an image">
+
+
+<p>此处即为源码包的下载链接，但是点开后发现无法下载。点击 <code>f12</code> 找到此 <code>a</code> 标签的路径，发现链接应该是 <code>downlaod.*</code> 变成了 <code>www.*</code> 。</p>
+<img src="/2022/02/13/OpenJDK%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%8C%85%E6%8B%ACCPP%E6%96%87%E4%BB%B6/02.png" class="" title="This is an image">
+
+<p>将链接 <code>www.java.net/download/openjdk/</code> 的部分修改为 <code>download.java.net/openjdk/</code> 即可下载。</p>
+<p>下载速度过慢可以使用<strong>迅雷</strong>加速。</p>
+<p>下载完成后使用 <code>vscode</code> 以项目打开即可查看 <code>CPP</code> 源码。</p>
+<img src="/2022/02/13/OpenJDK%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%8C%85%E6%8B%ACCPP%E6%96%87%E4%BB%B6/03.png" class="" title="This is an image">]]></content>
+      <categories>
+        <category>其他</category>
+        <category>资源下载</category>
+      </categories>
+      <tags>
+        <tag>JDK</tag>
+        <tag>资源下载</tag>
+      </tags>
+  </entry>
+</search>
