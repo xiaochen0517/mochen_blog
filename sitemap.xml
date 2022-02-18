@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.mochen.fun/tags/index.html</loc>
+    <loc>https://blog.mochen.fun/404.html</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/2022/02/18/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6%E5%AF%BC%E5%87%BA/</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/about/index.html</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/books/index.html</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/film/index.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -12,6 +48,15 @@
   
   <url>
     <loc>https://blog.mochen.fun/2022/02/13/OpenJDK%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD-%E5%8C%85%E6%8B%ACCPP%E6%96%87%E4%BB%B6/</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/tags/index.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -38,6 +83,20 @@
 
   
   <url>
+    <loc>https://blog.mochen.fun/tags/%E6%97%A5%E5%B8%B8%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2022-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/tags/%E7%94%B5%E5%AD%90%E4%B9%A6/</loc>
+    <lastmod>2022-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.mochen.fun/tags/JDK/</loc>
     <lastmod>2022-02-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,7 +113,21 @@
 
   
   <url>
-    <loc>https://blog.mochen.fun/categories/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD/</loc>
+    <loc>https://blog.mochen.fun/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/categories/%E5%85%B6%E4%BB%96/%E6%9D%82%E9%A1%B9/</loc>
+    <lastmod>2022-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mochen.fun/categories/%E5%85%B6%E4%BB%96/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD/</loc>
     <lastmod>2022-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
